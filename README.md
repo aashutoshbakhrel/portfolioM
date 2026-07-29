@@ -1,56 +1,126 @@
 <p align="center">
-  <img src="/public/favicon.svg" width="50" alt="Logo" />
+  <img src="/public/favicon.svg" width="60" alt="Madhu Dahal Logo" />
 </p>
-<h1 align="center">Personal portfolio</h1>
 
-[![Site preview](/public/site-preview.png)](https://hamishw.com)
+<h1 align="center">Madhu Dahal Portfolio</h1>
 
-My design portfolio to showcase a few projects. Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://hamishw.com) or check out a live version of the [components storybook](https://storybook.hamishw.com).
+<p align="center">
+A modern interactive portfolio showcasing my work, creativity, and technical experience.
+</p>
 
-## Install & run
+---
 
-Make sure you have nodejs `19.9.0` or higher and npm `9.6.3` or higher installed. Install dependencies with:
+## 🌐 Live Website
+
+**Portfolio:** https://aashutoshbakhrel.github.io/portfolioM/
+
+> (Replace with your custom domain later if you purchase one.)
+
+---
+
+## 🚀 About
+
+This portfolio belongs to **Madhu Dahal**, a Computer Science student at Herald College with experience in:
+
+- 🎮 Minecraft Server Management
+- ⚙️ Server Administration
+- 💻 Programming
+- 🎨 Illustration & Animation
+- 🌐 Web Development
+
+Madhu has worked as a **Minecraft Server Manager** for several communities including **Ruby SMP** and has been part of **ES Corp** for over **4 years**, managing servers, communities, and technical operations.
+
+---
+
+## 🛠 Built With
+
+- Remix
+- React
+- Three.js
+- Framer Motion
+- CSS Modules
+- Vite
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/aashutoshbakhrel/portfolioM.git
+```
+
+Enter the project
+
+```bash
+cd portfolioM
+```
+
+Install dependencies
 
 ```bash
 npm install
 ```
 
-Once it's done start up a local server with:
+Run locally
 
 ```bash
 npm run dev
 ```
 
-To view the components storybook:
+---
+
+## 📁 Build
 
 ```bash
-npm run dev:storybook
+npm run build
 ```
 
-## Deployment
+---
 
-I've set up the site using Cloudflare for hosting. Deploy the site to Cloudflare Pages:
+## 🚀 Deploy
 
-```bash
-npm run deploy
-```
+Deploy to GitHub Pages, Cloudflare Pages, Vercel, Netlify, or any platform supporting Remix/Vite.
 
-## Permissions
+---
 
-I'm cool with anyone using the code or parts of the code for their own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components it to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website.
+## 📸 Features
 
-I do not give permission to present any of my projects as your own (this is being actively used as my portfolio site and these are my real projects I've worked on).
+- Responsive design
+- Animated landing page
+- Three.js background effects
+- Smooth page transitions
+- Dark / Light theme
+- Project showcase
+- Contact page
+- Modern UI
 
-## FAQs
+---
 
-<details>
-  <summary>How do I change the color on the <code>DisplacementSphere</code> (blobby rotating thing in the background).</summary>
-  
-  You'll need to edit the fragment shader. [Check out this issue for more details](https://github.com/HamishMW/portfolio/issues/19#issuecomment-870996615).
-</details>
+## 📬 Contact
 
-<details>
-  <summary>How do I get the contact form to work?</summary>
-  
-  To get the contact form working create an AWS account and set up SES (Simple Email service). Then plug in your details into `.dev.vars.example` and rename it to `.dev.vars`. You'll also need to add these as enviroment variables in the Cloudflare dashboard for it to work in production. Or if you don't mind sending through gmail use [nodemailer](https://nodemailer.com/) instead.
-</details>
+GitHub:
+https://github.com/aashutoshbakhrel
+
+Portfolio:
+https://aashutoshbakhrel.github.io/portfolioM/
+
+---
+
+## 🙏 Credits
+
+This portfolio is based on the excellent open-source portfolio created by **Hamish Williams**.
+
+The content, branding, images, and personal information have been replaced with Madhu Dahal's own.
+
+Original project:
+https://github.com/HamishMW/portfolio
+
+---
+
+## 📄 License
+
+This project follows the license of the original repository.
+
+Please do not copy personal content, images, or branding without permission.
