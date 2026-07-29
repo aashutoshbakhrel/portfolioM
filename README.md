@@ -14,8 +14,6 @@ A modern interactive portfolio showcasing my work, creativity, and technical exp
 
 **Portfolio:** https://aashutoshbakhrel.github.io/portfolioM/
 
-> (Replace with your custom domain later if you purchase one.)
-
 ---
 
 ## 🚀 About
